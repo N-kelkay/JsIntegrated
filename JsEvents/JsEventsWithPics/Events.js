@@ -39,6 +39,15 @@ bruce.addEventListener("click", pickLink);
 ben.addEventListener("click", pickLink);
 
 function pickLink() {
+    // To only show the images you want to show:
+    var allImages = document.querySelectorAll("img");
+
+    for (var i = 0; i <allImages.length; i++){
+        if(allImages[i].className != "hide"){
+            allImages[i].className = "hide";
+        }
+    }
+
     //gets the data-img class name
     var thisId = this.attributes["data-img"].value;
 
