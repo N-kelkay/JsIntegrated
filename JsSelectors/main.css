@@ -2,7 +2,6 @@
     font-family: Arial;
     color: #667;
     padding: 0px 0px 0px 25%;
-    text-align: center;
 
 }
 
@@ -17,14 +16,8 @@ p, h4{
     padding: 0px 0px 0px 25%;
 }
 
-ul{
+#checklist{
     font-family: Arial;
     color: #667;
-    padding: 0px 0px 0px 25%;
-}
-
-li{
-    font-family: Arial;
-    color: #667;
-    padding: 0px 0px 0px 25%;
+    padding: 0px 150px 0px 35%;
 }
