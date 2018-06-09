@@ -1,0 +1,30 @@
+.change {
+    font-family: Arial;
+    color: #667;
+    padding: 0px 0px 0px 25%;
+    text-align: center;
+
+}
+
+.done {
+    text-decoration: line-through;
+    color: #999;
+}
+
+p, h4{
+    font-family: Arial;
+    color: #667;
+    padding: 0px 0px 0px 25%;
+}
+
+ul{
+    font-family: Arial;
+    color: #667;
+    padding: 0px 0px 0px 25%;
+}
+
+li{
+    font-family: Arial;
+    color: #667;
+    padding: 0px 0px 0px 25%;
+}
