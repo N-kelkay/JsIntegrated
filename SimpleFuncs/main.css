@@ -1,0 +1,7 @@
+.container {
+    margin: 20px
+}
+
+.container .jumbotron {
+    text-align: center;
+}
